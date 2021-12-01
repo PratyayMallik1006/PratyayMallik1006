@@ -1,4 +1,6 @@
-# Hello Everyone, This is Pratyay 👋
+# Welcome to my GitHub 👋
+![Hello Everyone, This is Pratyay 👋 (1)](https://user-images.githubusercontent.com/54743822/144287587-43279dbf-bb25-4275-a6ac-fef57edb0e3e.png)
+
 ### About Me
 - I am full stack web developer
 - an App developer
