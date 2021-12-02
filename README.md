@@ -3,7 +3,7 @@
 
 ### About Me
 - I am full stack web developer
-- an App developer
+- App developer
 - Data Science enthusiast
 ## Languages and Tools I Have Used
 <p align="left">
@@ -47,8 +47,10 @@
     <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <!-- android -->
     <a href="https://developer.android.com/studio" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain-wordmark.svg" alt="java" width="40" height="40"/> </a>
+    <!-- jupyter -->
+    <a href="https://jupyter.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain-wordmark.svg" alt="java" width="40" height="40"/> </a>
 <!-- oracle -->
-    <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
+    <a href="https://www.oracle.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="oracle" width="40" height="40"/> </a>
     <!-- firebase -->
   <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
   <!-- git -->
@@ -57,7 +59,15 @@
   <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
   <!-- linux OS -->
     <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-    </p>  
+    </p> 
+    
+    
+## Connect with me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px">
+ <a href="https://www.linkedin.com/in/pratyay-mallik-0a866a192/"><img src="https://img.shields.io/badge/linkedin-407BFF.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://leetcode.com/PratyayMallik/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
+    
+    
+    
     
   
     
