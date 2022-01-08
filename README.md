@@ -27,6 +27,8 @@
   <a href="https://www.canva.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" alt="css3" width="40" height="40"/> </a>
     <!-- php-->
     <a href="https://www.php.net/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>  
+    <!-- flask-->
+    <a href="https://flask.palletsprojects.com/en/2.0.x/quickstart/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" alt="flask" width="40" height="40"/> </a>  
     <!-- javascript-->
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  
   <!-- babelJS -->
