@@ -5,6 +5,7 @@
 - I am full stack web developer
 - App developer
 - Data Science enthusiast
+- Cybersecurity enthusiast
 ## Languages and Tools I Have Used
 <p align="left">
   <!-- CPP -->
