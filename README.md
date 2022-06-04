@@ -41,6 +41,8 @@
     <a href="https://jquery.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" alt="javascript" width="40" height="40"/> </a>
     <!-- react -->
     <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+    <!--vuejs-->
+    <a href="https://vuejs.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="react" width="40" height="40"/> </a>
     <!-- Material-UI -->
     <a href="https://mui.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" alt="react" width="40" height="40"/> </a>
     <!-- nodejs -->
