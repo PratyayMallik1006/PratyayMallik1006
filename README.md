@@ -81,7 +81,11 @@
     <a href="https://www.arduino.cc/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" alt="Arduino" width="40" height="40"/> </a>
     </p> 
     
+## 🏆 GitHub Trophy
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=PratyayMallik1006&theme=onedark&row=1&column=6)](https://github.com/codescientists/github-profile-trophy) 
     
+
 ## Connect with me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px">
  <a href="https://www.linkedin.com/in/pratyay-mallik-0a866a192/"><img src="https://img.shields.io/badge/linkedin-407BFF.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://leetcode.com/PratyayMallik/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
